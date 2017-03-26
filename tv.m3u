@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1,台灣 [02]台視HD
-http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop3/cht/hamitv-live046/hls-ae-mobile/128_3.m3u8?token=NH07aTo7pGocaP0e81X_yg&expires=1489869735
+http://45.32.58.12/gtk/tv072.m3u8
 #EXTINF:-1,台灣 [03]華視HD
-http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live51/hls-ae-tv/582_3.m3u8?token=3_54l83xIfPwb8sHpuSN6Q&expires=1489869916
-#EXTINF:-1,台灣 [07]交通電視台
-https://58ad68d0b6c8d.streamlock.net/ios/ftvtransportation/playlist.m3u8
+http://208.75.225.28:1935/live/CTSTV/playlist.m3u8
 #EXTINF:-1,台灣:[01]中視HD
-http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live48/hls-ae-tv/564_3.m3u8?token=PtsMTCC2OYaPYT-Uh9i_jQ&expires=1489912460
+http://199.229.252.131:1935/live/mp4:vmctvhd/chunklist.m3u8
 #EXTINF:-1,台灣:[04]東森新聞
 http://61.222.191.241/live/ch01/index.m3u8
 #EXTINF:-1,台灣:[05]東森新聞
@@ -21,8 +19,8 @@ http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist_w.m3u8
 http://61.222.191.25/live/ch15/playlist.m3u8
 #EXTINF:-1,台灣:[11]非凡新聞
 http://61.222.191.25/live/ch14/playlist.m3u8
-#EXTINF:-1,台灣:[12]非凡新聞HD
-http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop1/cht/hamitv-live012/hls-ae-tv/853_5.m3u8?token=3cvd-qB_ns7qahWVxzoJKQ&expires=1489912759
+#EXTINF:-1,台灣:[12]民視HD
+http://45.32.58.12/gtk/tv052.m3u8
 #EXTINF:-1,台灣:[13]TVBS新聞
 http://bcoveliveios-i.akamaihd.net/hls/live/255251/4005328949001_12/indexTVBS-N-HD-CH1-M.m3u8
 #EXTINF:-1,台灣:[14]東森洋片台
@@ -34,11 +32,9 @@ http://61.216.131.1/live/ch25/playlist.m3u8
 #EXTINF:-1,台灣:[17]八大戲劇
 http://61.216.131.1/live/ch24/playlist.m3u8
 #EXTINF:-1,台灣:[18]CN卡通
-http://61.222.191.61/live/ch26/playlist.m3u8
+http://198.255.90.44:5021/live/422?needkeyframeinfo=1&random=1490513233003
 #EXTINF:-1,台灣:[19]原住民電視台
 http://waaarplive03-lh.akamaihd.net/i/titv_1@191631/master.m3u8
-#EXTINF:-1,台灣:[20]原住民電視台
-http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_w.m3u8
 #EXTINF:-1,台灣:[21]民視綜藝台
 http://220.128.208.117/ios/ftvshow/chunklist_w346764303.m3u8
 #EXTINF:-1,台灣:[22]東森幼幼
@@ -58,7 +54,7 @@ http://61.222.191.241/live/ch02/playlist.m3u8
 #EXTINF:-1,台灣:[31]緯來戲劇
 http://61.216.79.193/live/ch06/playlist.m3u8
 #EXTINF:-1,台灣:[33]TVBS歡樂台HD
-http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live42/hls-ae-tv/47_3.m3u8?url_type=token&token=7uY-UuryskCiA1b_-3SN7w&expires=1489888909
+http://208.75.225.28:1935/live/dgi59218/chunklist_w2003875759.m3u8
 #EXTINF:-1,台灣:[34]緯來電影
 http://61.216.131.133/live/ch31/playlist.m3u8
 #EXTINF:-1,台灣:[35]HBO原創
@@ -90,10 +86,10 @@ http://61.218.59.187/live/ch114/playlist.m3u8
 #EXTINF:-1,台灣:[52]緯來育樂
 rtmp://149.3.141.210/sat/tv702
 #EXTINF:-1,台灣:[53]ELTA運動
-http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live56/hls-ae-tv/112_3.m3u8?token=wO7taQA8WbQHmYe09nYKvQ&expires=1489870144
+http://198.255.90.44:5021/live/266?random=1490512566119&needkeyframeinfo=1
 #EXTINF:-1,台灣:[54]Fox運動
 rtmp://149.3.141.210/sat/tv732
-#EXTINF:-1,台灣:[55]Fox運動2
+#EXTINF:-1,台灣:[55]Fox運動
 rtmp://149.3.141.210/sat/tv742
 #EXTINF:-1,台灣:[56]Fox運動3
 http://198.255.90.44:5021/live/95?random=1488364941086&needkeyframeinfo=1
