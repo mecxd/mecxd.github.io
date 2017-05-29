@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,02wakuwaku Japan
+http://58.99.33.2:1935/liveedge4/live_205_2.stream/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa&as&dr&mmmm
+#EXTINF:-1,03緯來日本台
+rtmp://ws01.sg911.net/sat//tv761
 #EXTINF:-1,台灣 [02]台視HD
 http://45.32.58.12/gtk/tv072.m3u8
 #EXTINF:-1,台灣 [03]華視HD
